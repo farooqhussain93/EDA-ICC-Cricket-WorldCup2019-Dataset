@@ -1,15 +1,20 @@
 # Exploratory Data Analysis (EDA) on ICC Cricket World Cup 2019 Dataset
+
+## Dataset
+
+ICC Cricket World Cup 2019 match dataset containing match dates, teams, venues and match results.
+
 ## Project Overview
 
 This project explores the ICC Cricket World Cup 2019 dataset using Python-based data analysis techniques.
 The goal was to uncover key insights into match outcomes, team performances and tournament dynamics.
 
-## Tools & Libraries
+## Tech Stack
 
 - Python
-- Pandas – data cleaning & manipulation
-- Matplotlib & Seaborn – data visualization
-- Jupyter Notebook – analysis & presentation
+- Pandas
+- Matplotlib
+- Jupyter Notebook
 
 ## Summary of Insights
 
@@ -22,3 +27,7 @@ The goal was to uncover key insights into match outcomes, team performances and 
 - Tournament Activity Over Time: Match frequency peaked mid-tournament, with distinct spikes on double-match days.
 
 - Competitive Spread: Wins were distributed across many teams, reflecting a competitive tournament.
+
+## License
+
+This project is licensed under the MIT License.
